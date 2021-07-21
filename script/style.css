@@ -42,4 +42,12 @@ ul {
 
 body { color:  blue;
   background-color:  yellow; 
+  font: size 20pt;
+}
+
+div {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
